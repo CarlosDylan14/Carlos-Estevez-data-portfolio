@@ -15,6 +15,20 @@ I am a Data Analytics professional developing hands-on experience in data analys
 - Dashboard Development
 - Data Analysis
 
+- ## 🎓 Certifications & Professional Development
+
+### Google Cloud Data Analytics Professional Certificate
+- Google Cloud / Coursera
+- Completed: September 2026
+- Hands-on experience with SQL, BigQuery, Looker, LookML, dashboards, data visualization, and cloud-based analytics.
+
+### IBM Data Engineering Professional Certificate
+- IBM / Coursera
+- Status: In Progress
+- 16-course professional certificate program
+- ✅ Introduction to Data Engineering — Completed: October 2026
+- 🔄 Currently continuing the Data Engineering program
+
 ## 📊 Projects
 
 ### Loan Insights Dashboard
